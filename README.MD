@@ -1,0 +1,1 @@
+O try-catch é excelente, mas desenvolvedores seniores muitas vezes usam o método int.TryParse(). Ele tenta converter o número e, se não conseguir, ele apenas devolve "falso" em vez de gerar uma exceção. É uma forma ainda mais elegante de prevenir erros!
